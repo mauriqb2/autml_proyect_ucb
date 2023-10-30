@@ -34,10 +34,6 @@ Este proyecto utiliza el servicio de Machine Learning de Azure junto con MLflow 
 -   Librerías: `azure.ai.ml`, `azure.identity`, `sklearn`, `pandas`, `mlflow`.
 -   Conjunto de datos con emisiones de CO2 y características relacionadas de vehículos.
 
-### Uso:
-
-Para ejecutar el proyecto, siga los pasos descritos en el notebook `Orchestrator-hp.ipynb`. Asegúrese de tener configuradas las credenciales de Azure y de tener acceso al conjunto de datos necesario.
-
 ### Contribuidores:
 
 -   Mauricio Alejandro Quezada Bustillo
